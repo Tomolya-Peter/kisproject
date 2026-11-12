@@ -1,0 +1,47 @@
+body {
+    background-color: #0878e9;
+    color: #222222;
+}
+
+
+form, .container {
+    background-color: #776060;
+}
+
+
+h1 {
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #15803d;
+}
+
+
+input, select {
+    background-color: #f8fafc;
+    border: 1px solid #94a3b8;
+    color: #111111;
+}
+
+
+.is-invalid {
+    border-color: #dc2626;
+    background-color: #fef2f2;
+}
+
+.is-valid {
+    border-color: #16a34a;
+    background-color: #f0fdf4;
+}
+
+/* Gombok színei */
+button[type="submit"], input[type="submit"] {
+    background-color: #2563eb;
+    color: #ffffff;
+}
+
+button[type="reset"], input[type="reset"] {
+    background-color: #cbd5e1;
+    color: #1e293b;
+}
